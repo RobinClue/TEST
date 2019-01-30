@@ -1,0 +1,2029 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://ravynlenae.com/ -->
+<html class="js cssanimations csstransforms3d wf-proximanova-n4-active wf-proximanova-n3-active wf-active" style="padding-bottom: 0px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		  <script>
+var gdprSiteConfig = {
+    label: 'ATL', //(Accepted values - "WBR" or "ATL" or "AA" or "WMN" or "WMI" or "RR" or "FBR", or "WMG")
+    pp_lightbox: true, //(Accepted values - true or false)
+    cookie_banner: true, //(Accepted values - true or false)
+    theme: 'light' // (Accepted values - 'light' or 'dark')
+}
+</script>
+<script type="text/javascript" src="./Ravyn Lenae - Official Website_files/script_v1.js"></script>
+		
+
+		<title>Ravyn Lenae - Official Website</title>
+
+		<meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1.0">
+
+		<link rel="shortcut icon" href="http://ravynlenae.com/images/RL_FAV12.png" type="image/vnd.microsoft.icon">
+
+		<meta property="og:url" content="http://ravynlenae.com/">
+
+		<meta property="og:image" content="http://ravynlenae.com/images/RL_OG12.png">
+
+		<meta name="keywords" content="Ravyn Lenae">
+
+		<meta name="description" content="Ravyn Lenae - New Single &#39;Sticky&#39; Out Now">
+
+		<meta property="og:title" content="Ravyn Lenae - Official Website">
+
+		<meta property="og:description" content="Ravyn Lenae - New Single &#39;Sticky&#39; Out Now">
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery.min.js"></script>
+
+		<!-- <script src="http://jquery.thewikies.com/browser/jquery.browser.min.js" type="text/javascript"></script>-->
+
+		<script src="./Ravyn Lenae - Official Website_files/modernizr.js"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery.cookie.min.js" type="text/javascript"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery-1.8.3.min_.js.txt" type="text/javascript"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/jQuery.validate-v1.10.0.js.txt" type="text/javascript"></script>
+
+		<!--<script src="http://d2ccommon.wmg-gardens.com/sites/g/files/g2000000006/f/assets/MailingList-v3-2016-02-22.js.txt" type="text/javascript"></script>-->
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery-1.9.1.min.js"></script>
+
+		<!-- <script src="http://jquery.thewikies.com/browser/jquery.browser.min.js" type="text/javascript"></script> -->
+
+		<!-- <script src="https://libraries.wmgartistservices.com/songkick/widget_min.js" type="text/javascript"></script> -->
+
+		
+		<script>
+			var reportSuitesStr = "wmg,wmgatl,wmgravynlenae.com";
+
+			digitalData = {
+
+				settings : {
+
+					reportSuites : reportSuitesStr
+
+				},
+
+				content : {
+
+					artist : "Ravyn Lenae",
+
+					label : "Atlantic Records"
+
+				},
+
+				page : {
+
+					pageInfo : {
+
+						pageName : "",
+
+						server : "Ravyn Lenae:Site",
+
+						platform : "Blackmesh"
+
+					},
+
+					category : {
+
+						primaryCategory : "",
+
+						pageType : ""
+
+					}
+
+				}
+
+			}
+
+			digitalData.page.pageInfo.server = digitalData.content.artist + ":Site";
+
+			var string = "home";
+
+			var pageMapping = {
+
+				"home" : "Single-Page Site"
+
+			}
+
+			var pageNameMapping = {
+
+				"home" : "Single-Page Site:Home"
+
+			}
+
+			digitalData.page.pageInfo.pageName = digitalData.content.artist + ":" + "Single-Page Site";
+
+			digitalData.page.category.pageType = pageNameMapping[string];
+
+			digitalData.page.category.primaryCategory = digitalData.content.artist + ":" + pageMapping[string];
+
+		</script>
+
+		<script src="./Ravyn Lenae - Official Website_files/satelliteLib-b6e3529c31d92a9252c30c1714b6b9342304145b.js" type="text/javascript"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery.validate.js" type="text/javascript"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/jquery.cookie.min.js"></script>
+
+		<!-- <script src="JS/mailingList.js?cxcx"></script> -->
+
+		<script src="./Ravyn Lenae - Official Website_files/mlist_dtm_update_061317.js"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/DTM_Custom.js"></script>
+
+		<script src="./Ravyn Lenae - Official Website_files/parallax_code.js"></script>
+
+		<!-- <script src="JS/tour.js?dss"></script> -->
+
+		<!-- <script type="text/javascript" src="http://www.bandsintown.com/javascripts/bit_widget.js"></script> -->
+
+		<script type="application/javascript" src="./Ravyn Lenae - Official Website_files/site.js"></script>
+
+		<link href="./Ravyn Lenae - Official Website_files/styles.css" rel="stylesheet" type="text/css">
+
+		<link href="./Ravyn Lenae - Official Website_files/mailingList.css" rel="stylesheet" type="text/css">
+
+		<!-- <link href="fonts/stylesheet.css" rel="stylesheet" type="text/css"> -->
+
+		<link href="./Ravyn Lenae - Official Website_files/style.css" rel="stylesheet" type="text/css">
+
+		<link href="./Ravyn Lenae - Official Website_files/tour.css" rel="stylesheet" type="text/css">
+
+		<script src="./Ravyn Lenae - Official Website_files/xrq2uaa.js"></script>
+
+		<style type="text/css">.tk-proxima-nova{font-family:"proxima-nova",sans-serif;}</style><style type="text/css">@font-face{font-family:tk-proxima-nova-n4;src:url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-proxima-nova-n3;src:url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}</style><script>
+			try {
+
+				Typekit.load({
+
+					async : true
+
+				});
+
+			} catch(e) {
+
+			}
+
+		</script>
+
+		<script>
+			jQuery(window).load(function() {
+
+				//jQuery("#headerblock").css("height", document.documentElement.clientHeight+"px");
+
+				// if (jQuery(window).width() > 1024) {
+
+				// jQuery(".no-touch #headerblock").css("height", document.documentElement.clientHeight + "px");
+
+				// }
+
+			});
+
+			function CallOmniture(text) {
+
+				var s_dtm = s_gi(digitalData.settings.reportSuites);
+
+				s_dtm.linkTrackVars = 'prop1,eVar4';
+
+				s_dtm.prop1 = digitalData.content.artist;
+
+				s_dtm.eVar4 = digitalData.content.artist;
+
+				s_dtm.tl(this, 'o', text);
+
+			}
+
+
+			jQuery("document").ready(function() {
+
+				/*
+
+				jQuery(".enter_site a").click(function() {
+
+				CallOmniture('Ravyn Lenae:Moon Shoes EP Available Now:Splash Page:Enter Site Click');
+
+				});
+
+				jQuery(".header-socials a.facebook").click(function() {
+
+				omniCustomLink(vars, 'Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Facebook (header) Click');
+
+				});
+
+				jQuery(".header-socials a.twitter").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Twitter (header) Click');
+
+				});
+
+				jQuery(".header-socials a.instagram").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Instagram (header) Click');
+
+				});
+
+				jQuery(".header-socials a.youtube").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Youtube (header) Click');
+
+				});
+
+				jQuery(".header-socials a.spotifyfooter").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Spotify (header) Click');
+
+				});
+
+				jQuery(".header-socials a.soundcloud").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Soundcloud Click');
+
+				});
+
+				//Music header
+
+				jQuery(".header-wrapper .follow-wrapper .itunes").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:iTunes (header download dropdown) Click');
+
+				});
+
+				jQuery(".header-wrapper .follow-wrapper .gplay").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Google Play (header download dropdown) Click');
+
+				});
+
+				jQuery(".header-wrapper .follow-wrapper .amazon").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Amazon (header download dropdown) Click');
+
+				});
+
+				jQuery(".header-wrapper .follow-wrapper .streamspotify").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Spotify (header stream dropdown) Click');
+
+				});
+
+				jQuery(".header-wrapper .follow-wrapper .applemusic").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Apple Music (header stream dropdown) Click');
+
+				});
+
+				jQuery(".header-wrapper .follow-wrapper .deezer").click(function() {
+
+				CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Deezer (header stream dropdown) Click');
+
+				});
+
+				*/
+
+				/**Nav**/
+
+				jQuery(".menu-wrapper .homelink").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Home (Navigation) Click');
+
+				});
+
+				jQuery(".menu-wrapper .musiclink").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Music (Navigation) Click');
+
+				});
+
+				jQuery(".menu-wrapper .videolink").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Video (Navigation) Click');
+
+				});
+
+				jQuery(".menu-wrapper .tourlink").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Tour (Navigation) Click');
+
+				});
+
+				jQuery(".menu-wrapper .emailer").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Subscribe (Navigation) Click');
+
+				});
+
+				/*
+
+				 //Music Section
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .itunes").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:iTunes (music download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .gplay").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Google Play (music download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .amazon").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Amazon (music download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .streamspotify").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Spotify (music stream dropdown) Click');
+
+				 });
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .applemusic").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Apple Music (music stream dropdown) Click');
+
+				 });
+
+				 jQuery(".music-section .left-wrapper .follow-wrapper .deezer").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Deezer (music stream dropdown) Click');
+
+				 });
+
+				 */
+
+				jQuery(".icons-dropdown #spotify").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Spotify (embed stream selector) Click');
+
+				});
+
+				jQuery(".icons-dropdown #youtube").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:YouTube (embed stream selector) Click');
+
+				});
+
+				jQuery(".icons-dropdown #apple").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Apple Music (embed stream selector) Click');
+
+				});
+
+				jQuery(".icons-dropdown #soundcloud").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Soundcloud (embed stream selector) Click');
+
+				});
+
+				jQuery(".icons-dropdown #deezer").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Deezer (embed stream selector) Click');
+
+				});
+
+				/*
+
+				 //Music Section 2
+
+				 jQuery(".music-bottomblock .follow-wrapper .itunes").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:iTunes (Moon Shoes EP download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-bottomblock .follow-wrapper .gplay").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Google Play (Moon Shoes EP download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-bottomblock .follow-wrapper .amazon").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Amazon (Moon Shoes EP download dropdown) Click');
+
+				 });
+
+				 jQuery(".music-bottomblock .follow-wrapper .streamspotify").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Spotify (Moon Shoes EP stream dropdown) Click');
+
+				 });
+
+				 jQuery(".music-bottomblock .follow-wrapper .applemusic").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Apple Music (Moon Shoes EP stream dropdown) Click');
+
+				 });
+
+				 jQuery(".music-bottomblock .follow-wrapper .deezer").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Deezer (Moon Shoes EP stream dropdown) Click');
+
+				 });
+
+				 */
+
+				jQuery(".video-wrapcontent > .featured-video a").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Play Unknown Video Button Click');
+
+				});
+
+				jQuery(".list-items .featured-video:nth-child(1) a").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Play Free Room Video Button Click');
+
+				});
+
+				jQuery(".list-items .featured-video:nth-child(2) a").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Play Alive Video Button Click');
+
+				});
+
+				jQuery(".list-items .featured-video:nth-child(3) a").click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:Play Blossom Dearie Video Button Click');
+
+				});
+
+				/*
+
+				 jQuery(".socialOuterWrappper a.facebook").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Facebook (footer) Click');
+
+				 });
+
+				 jQuery(".socialOuterWrappper a.twitter").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Twitter (footer) Click');
+
+				 });
+
+				 jQuery(".socialOuterWrappper a.instagram").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Instagram (footer) Click');
+
+				 });
+
+				 jQuery(".socialOuterWrappper a.youtube").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Youtube (footer) Click');
+
+				 });
+
+				 jQuery(".socialOuterWrappper a.spotifyfooter").click(function() {
+
+				 CallOmniture('Ravyn Lenae:Midnight Moonlight Available Now:Splash Page:Spotify (footer) Click');
+
+				 });
+
+				 */
+
+			});
+
+			jQuery(window).load(function() {
+
+				jQuery('.bit-show-all-dates').click(function() {
+
+					CallOmniture('Ravyn Lenae:Single-Page Site:View More Dates Click');
+
+				});
+
+			});
+
+
+        	</script>
+
+<!--
+<script type = "text/javascript" >
+		 function getQueryString() {
+				var assoc = new Array();
+				var queryString = unescape(location.search.substring(1));
+				var keyValues = queryString.split('&');
+				for (var i in keyValues) {
+					var key = keyValues[i].split('=');
+					assoc[key[0]] = key[1];
+				}
+				return assoc;
+			}
+			var isHomePage = false;
+			var newUrl = '/crushcapsule';
+			var docReferrer = document.referrer;
+			if (docReferrer && docReferrer != null && docReferrer.length > 1) {
+				newUrl += "?ref=" + docReferrer;
+			} else {
+				newUrl += "?ref=Typed/Bookmarked"
+			}
+			var urlExpression1 = /.com\/$/;
+			var urlExpression2 = /.com$/;
+			var urlExpression3 = /.com\?frontpage\=true/;
+			var urlExpression4 = /.com\?frontpage\=true\/$/;
+			var windowLocation = window.location;
+			if (urlExpression1.test(windowLocation.origin) || urlExpression2.test(windowLocation.origin)) {
+				if (getQueryString()["frontpage"] != 'true') {
+					window.location = newUrl;
+					//to be enabled for splash redirect
+				}
+				isHomePage = true;
+			}
+			if (getQueryString()["frontpage"] == 'true') {
+				isHomePage = true;
+			}
+			
+
+		</script>	--><style type="text/css">@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/c9cde8/00000000000000003b9ad1b9/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/3333ef/00000000000000003b9ad1b5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}</style>
+	</head>
+
+	<body class="front1 no-touch">
+
+		<div class="splashWrapper" style="min-height: 877px;">
+
+			<div class="leftInnerWrapper">
+
+				<div class="logoWrapper">
+
+				</div>
+
+				<div class="mobile-artist-image">
+
+				</div>
+
+				<div class="header-wrapper parallex-wrapper" id="headerblock">
+
+					<div class="socialswrapper">
+
+						<ul class="header-socials">
+
+							<li>
+
+								<a data-track="facebook" class="splash-facebook facebook" target="_blank" href="https://facebook.com/ravynlenae"></a>
+
+							</li>
+
+							<li>
+
+								<a data-track="twitter" class="splash-twitter twitter" target="_blank" href="https://twitter.com/ravynlenae"></a>
+
+							</li>
+
+							<li>
+
+								<a data-track="instagram" class="splash-instagram instagram" target="_blank" href="https://instagram.com/ravynlenae"></a>
+
+							</li>
+
+							<!--<li><a class="splash-soundcloud soundcloud" target="_blank" href="https://soundcloud.com/ravynlenaesounds"></a></li> -->
+
+							<li>
+
+								<a data-track="youtube" class="youtube splash-youtube" target="_blank" href="https://youtube.com/ravynlenae"></a>
+
+							</li>
+
+							<li>
+
+								<a data-track="spotify" class="splash-spotify spotifyfooter" target="_blank" href="https://play.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"></a>
+
+							</li>
+
+						</ul>
+
+					</div>
+
+					<div class="logo-wrapper">
+
+						<div class="logo-wrapper-inner">
+
+							<div class="callout-wrapper1">
+
+								<div>
+									RAVYN LENAE
+								</div>
+
+							</div>
+
+							<!-- <div class="callout-wrapper2">
+
+							<img src="images/eptext.png">
+
+							</div> -->
+
+							<div class="headeralbum-title">
+
+								crush EP
+
+							</div>
+
+							<div class="follow-wrapper">
+
+								<div class="music-links-wrapper">
+
+									<div class="view-download-links DownloadDTM">
+
+										<div class="views-label views-download-label">
+
+											Download
+
+										</div>
+
+										<div class="field-content">
+
+											<a class="itunes" href="https://itunes.apple.com/us/album/id1343536426?ls=1&amp;app=itunes" target="_blank" style="display: none;" data-track="itunes">iTunes</a>
+
+											<a class="gplay" href="https://play.google.com/store/music/artist/Ravyn_Lenae?id=Ati3s4m76tleuqnrytu4okk7wea" target="_blank" style="display: none;" data-track="google-play">Google Play</a>
+
+											<a class="amazon" href="https://amazon.com/dp/B079J8991X" target="_blank" style="display: none;" data-track="amazon-p">Amazon</a>
+
+										</div>
+
+									</div>
+
+									<div class="view-stream-links StreamingDTM">
+
+										<div class="views-label views-stream-label">
+
+											Stream
+
+										</div>
+
+										<div class="field-content">
+
+											<a class="streamspotify" href="https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i" target="_blank" data-track="spotify" style="display: none;">Spotify</a>
+
+											<a class="applemusic" href="https://itunes.apple.com/us/album/id1343536426?app=music&amp;ls=1" target="_blank" data-track="apple-music" style="display: none;">Apple Music</a>
+
+											<a class="deezer" href="https://www.deezer.com/album/56253712?utm_source=deezer&amp;utm_content=album-56253712&amp;utm_term=1755061406_1518198133&amp;utm_medium=web" target="_blank" data-track="deezer" style="display: none;">Deezer</a>
+
+										</div>
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="see-content-arrow">
+
+							<div class="see-more-arrow"></div>
+
+						</div>
+
+					</div>
+
+					<div class="callout-wrapper2">
+
+						<img src="./Ravyn Lenae - Official Website_files/new_headerbg_mobile.jpg">
+
+					</div>
+
+					<div class="see-content-arrow one">
+
+						<div class="see-more-arrow"></div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="music-container parallex-wrapper" id="musicblock">
+
+				<div class="menu-wrapper" id="menublock">
+
+					<div class="menu-wrapper-inner">
+
+						<a href="http://ravynlenae.com/#headerblock" class="menu homer homelink">HOME</a>
+
+						<a href="http://ravynlenae.com/#musicblock" class="menu homer musiclink">MUSIC</a>
+
+						<a href="http://ravynlenae.com/#videoblock" class="menu homer videolink">VIDEO</a>
+
+						<a href="http://ravynlenae.com/#tourblock" class="menu homer tourlink">TOUR</a>
+
+						<a href="http://ravynlenae.com/#mlistsection" class="menu homer emailer">SUBSCRIBE</a>
+
+					</div>
+
+				</div>
+
+				<div class="music-section">
+
+					<div class="music-container1">
+
+						<div class="music-header">
+
+							<span>Music</span>
+
+							<span class="spotify-iframe"> <iframe src="./Ravyn Lenae - Official Website_files/saved_resource.html" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe> </span>
+
+						</div>
+
+						<div class="left-wrapper">
+
+							<span class="release-year">Crush</span>
+
+							<div class="album-image">
+
+								<img src="./Ravyn Lenae - Official Website_files/crush.png">
+
+							</div>
+
+							<div class="follow-wrapper">
+
+								<span class="release-year"> Crush </span>
+
+								<div class="music-links-wrapper">
+
+									<div class="view-download-links DownloadDTM">
+
+										<div class="views-label views-download-label">
+
+											Download
+
+										</div>
+
+										<div class="field-content">
+
+											<a class="itunes" href="https://itunes.apple.com/us/album/id1343536426?ls=1&amp;app=itunes" target="_blank" style="display: none;" data-track="itunes">iTunes</a>
+
+											<a class="amazon" href="https://amazon.com/dp/B079J8991X" target="_blank" style="display: none;" data-track="amazon-p">Amazon</a>
+
+											<a class="gplay" href="https://play.google.com/store/music/artist/Ravyn_Lenae?id=Ati3s4m76tleuqnrytu4okk7wea" target="_blank" style="display: none;" data-track="google-play">Google Play</a>
+
+										</div>
+
+									</div>
+
+									<div class="view-stream-links StreamingDTM">
+
+										<div class="views-label views-stream-label">
+
+											Stream
+
+										</div>
+
+										<div class="field-content">
+
+											<a class="streamspotify" href="https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i" target="_blank" data-track="spotify">Spotify</a>
+
+											<a class="applemusic" href="https://itunes.apple.com/us/album/id1343536426?app=music&amp;ls=1" target="_blank" data-track="apple-music">Apple Music</a>
+
+											<a class="deezer" href="https://www.deezer.com/album/56253712?utm_source=deezer&amp;utm_content=album-56253712&amp;utm_term=1755061406_1518198133&amp;utm_medium=web" target="_blank" data-track="deezer">Deezer</a>
+
+										</div>
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="right-wrapper">
+
+							<div class="embed-dropdown">
+
+								<span class="streaming_cta"> Select your streaming: </span>
+
+								<span class="embed-buttons"> <a id="spotify" class="splash-spotify"><span class="text">spotify</span></a>
+									<div class="icons-dropdown">
+
+										<a id="spotify" class="splash-spotify active"><span class="text">spotify</span></a>
+
+										<a id="youtube" class="splash-youtube"><span class="text">youtube</span></a>
+
+										<a id="apple" class="splash-apple"><span class="text">apple</span></a>
+
+										<a id="soundcloud" class="splash-soundcloud"><span class="text">soundcloud</span></a>
+
+										<a id="deezer" class="splash-deezer"><span class="text">deezer</span></a>
+
+									</div> </span>
+
+							</div>
+
+							<div class="embed-wrapper">
+
+								<div class="spotify show">
+
+									<iframe src="./Ravyn Lenae - Official Website_files/7jxrYnrAa06rekcs1cxp7i.html" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+								</div>
+
+								<div class="apple">
+
+									<iframe src="./Ravyn Lenae - Official Website_files/1343536426.html" height="500px" width="100%" frameborder="0"></iframe>
+
+								</div>
+
+								<div class="soundcloud">
+
+									<iframe width="100%" height="300" scrolling="no" frameborder="no" src="./Ravyn Lenae - Official Website_files/saved_resource(1).html"></iframe>
+
+								</div>
+
+								<div class="youtube">
+
+									<iframe width="560" height="315" src="./Ravyn Lenae - Official Website_files/3fXAfgUr47s.html" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+								</div>
+
+								<div class="deezer">
+
+									<iframe scrolling="no" frameborder="0" allowtransparency="true" src="./Ravyn Lenae - Official Website_files/player.html" width="700" height="240"></iframe>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="music-bottomblock moonlight">
+
+						<div>
+
+							<div class="album-thumbnail">
+
+								<img src="./Ravyn Lenae - Official Website_files/album.jpg">
+
+							</div>
+
+							<div class="musicbottom-right">
+
+								<div class="album-header">
+
+									<span>MIDNIGHT MOONLIGHT </span>
+
+								</div>
+
+								<div class="follow-wrapper">
+
+									<div class="music-links-wrapper">
+
+										<div class="view-download-links DownloadDTM">
+
+											<div class="views-label views-download-label">
+
+												Download
+
+											</div>
+
+											<div class="field-content">
+
+												<a class="itunes" href="https://itunes.apple.com/us/album/midnight-moonlight-ep/id1209696139?app=itunes&amp;ign-mpt=uo%3D4" target="_blank" style="display: none;" data-track="itunes">iTunes</a>
+
+												<a class="amazon" href="https://www.amazon.com/Midnight-Moonlight-EP/dp/B06XB6SFN5?tag=linkfire03-20&amp;ie=UTF8&amp;linkCode=as2&amp;ascsubtag=6614a1c1221c7b4c8622702909442372" target="_blank" style="display: none;" data-track="amazon-p">Amazon</a>
+
+												<a class="gplay" href="https://play.google.com/store/music/album?id=B3ul36o4bwfsen53x3aqjt6bwby&amp;tid=song-Th2f27qoideom6nttrmm5xh5jy4" target="_blank" style="display: none;" data-track="google-play">Google Play</a>
+
+											</div>
+
+										</div>
+
+										<div class="view-stream-links StreamingDTM">
+
+											<div class="views-label views-stream-label">
+
+												Stream
+
+											</div>
+
+											<div class="field-content">
+
+												<a class="streamspotify" href="https://open.spotify.com/user/ravynlenae/playlist/7CG9irsBBnVwIPnphPlOUd" target="_blank" data-track="spotify">Spotify</a>
+
+												<a class="applemusic" href="https://itunes.apple.com/in/album/midnight-moonlight-ep/id1209696139?app=music&amp;ign-mpt=uo%3D4" target="_blank" data-track="apple-music">Apple Music</a>
+
+												<a class="deezer" href="https://www.deezer.com/plugins/player?format=classic&amp;autoplay=false&amp;playlist=true&amp;width=700&amp;height=350&amp;color=007FEB&amp;layout=dark&amp;size=medium&amp;type=album&amp;id=15498598&amp;app_id=1" target="_blank" data-track="deezer">Deezer</a>
+
+											</div>
+
+										</div>
+
+									</div>
+
+								</div>
+
+								<div class="year">
+
+									2017
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="music-bottomblock moonshoes">
+
+						<div>
+
+							<div class="album-thumbnail">
+
+								<img src="./Ravyn Lenae - Official Website_files/album-thumbnail.jpg">
+
+							</div>
+
+							<div class="musicbottom-right">
+
+								<div class="album-header">
+
+									<span> moon shoes ep </span>
+
+								</div>
+
+								<div class="follow-wrapper">
+
+									<div class="music-links-wrapper">
+
+										<div class="view-download-links DownloadDTM">
+
+											<div class="views-label views-download-label">
+
+												Download
+
+											</div>
+
+											<div class="field-content">
+
+												<a class="itunes" href="https://itunes.apple.com/in/album/moon-shoes-ep/id1136940861?app=itunes&amp;ign-mpt=uo%3D4" target="_blank" style="display: none;" data-track="itunes">iTunes</a>
+
+												<a class="amazon" href="https://www.amazon.com/Moon-Shoes/dp/B01IUPTSR2/?tag=smarturl-20" target="_blank" style="display: none;" data-track="amazon-p">Amazon</a>
+
+												<a class="gplay" href="https://play.google.com/music/preview/Bsviubdr35kopn37dceyitfnxwm?PAffiliateID=11lwW9" target="_blank" style="display: none;" data-track="google-play">Google Play</a>
+
+											</div>
+
+										</div>
+
+										<div class="view-stream-links StreamingDTM">
+
+											<div class="views-label views-stream-label">
+
+												Stream
+
+											</div>
+
+											<div class="field-content">
+
+												<a class="streamspotify" href="https://play.spotify.com/user/ravynlenae/playlist/7CG9irsBBnVwIPnphPlOUd" target="_blank" data-track="spotify">Spotify</a>
+
+												<a class="applemusic" href="https://itunes.apple.com/in/album/moon-shoes-ep/id1136940861?app=itunes&amp;ign-mpt=uo%3D4" target="_blank" data-track="apple-music">Apple Music</a>
+
+												<a href="https://smarturl.it/MoonShoesSC?IQid=website" target="_blank" style="display: none;" data-track="soundcloud">Soundcloud</a>
+
+											</div>
+
+										</div>
+
+									</div>
+
+								</div>
+
+								<div class="year">
+
+									2016
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="video-wrapper" id="videoblock">
+
+				<div class="video-wrapcontent">
+
+					<div class="featured-video">
+
+						<div class="video-embed video-embed4">
+
+							<!-- <iframe id="player" src="https://www.youtube.com/embed/QLoRVs0zluE?enablejsapi=1" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe> -->
+
+							<span class="youtubeplay"> <a href="http://ravynlenae.com/#" class="play_button" title="Play movie X">Play</a> <a class="preplay">
+								<div class="video-title">
+
+									4 Leaf Clover
+
+								</div> </a> </span>
+
+							<a class="videoimage"><img src="./Ravyn Lenae - Official Website_files/ravelynnthumb.jpeg"></a>
+							<div id="player"></div>
+							
+						</div>
+
+					</div>
+
+					<!-- <div class="list-items">
+
+					<div class="featured-video">
+
+					<div class="video-embed video-embed4">
+
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/7IGOiuUIisU?rel=0&amp;&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+					<span class="youtubeplay"> <a href="#" class="play_button" title="Play movie X">Play</a> <a class="preplay">
+
+					<div class="video-title">
+
+					Unknown
+
+					</div> </a> </span>
+
+					<a class="videoimage"><img src="images/ravyn_unknownmv.jpg"></a>
+
+					</div>
+
+					</div>
+
+					<div class="featured-video">
+
+					<div class="video-embed video-embed4">
+
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Fvs1Rylfar4?rel=0&amp;&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+					<span class="youtubeplay"> <a href="#" class="play_button" title="Play movie X">Play</a> <a class="preplay">
+
+					<div class="video-title">
+
+					free room
+
+					</div> </a> </span>
+
+					<a class="videoimage"><img src="images/video2.jpg"></a>
+
+					</div>
+
+					</div>
+
+					<div class="featured-video">
+
+					<div class="video-embed video-embed4">
+
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Fvs1Rylfar4?ecver=2" frameborder="0" allowfullscreen></iframe>
+
+					<span class="youtubeplay"> <a href="#" class="play_button" title="Play movie X">Play</a> <a class="preplay">
+
+					<div class="video-title">
+
+					Alive
+
+					</div> </a> </span>
+
+					<a class="videoimage"><img src="images/videonew.jpg"></a>
+
+					</div>
+
+					</div>
+
+					<div class="featured-video">
+
+					<div class="video-embed video-embed4">
+
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/7TwDMH-cw_I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+					<span class="youtubeplay"> <a href="#" class="play_button" title="Play movie X">Play</a> <a class="preplay">
+
+					<div class="video-title">
+
+					blossom dearie
+
+					</div> </a> </span>
+
+					<a class="videoimage"><img src="images/video4.jpg"></a>
+
+					</div>
+
+					</div>
+
+					</div> -->
+
+					<div class="watch-more">
+
+						<a class="watchmore" href="https://www.youtube.com/channel/UCtgNg5yxCyfjEE7Q7KeSmBw" target="_blank">WATCH MORE VIDEOS FROM RAVYN</a>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="tour-wrapper" id="tourblock">
+
+				<div class="righter-wrapper">
+
+					<div class="mlist-subscribe non-dater ">
+
+						<h2>Tour</h2>
+
+					</div>
+
+					<div class="mlist-outer-wrapper embedded-inline-list country-detect">
+
+						<div class="mlist-wrapper">
+
+							<!-- Ajax Loader Icon -->
+
+							<div id="ajaxLoader" style="display: none">
+
+							</div><!-- //ajaxLoader-->
+
+							<form class="join-button-form" id="signupForm4" method="get" action="http://ravynlenae.com/" novalidate="novalidate" autocomplete="off">
+
+								<fieldset>
+
+									<!-- <div class="mlist-subscribe">
+
+									<h2>Tour</h2>
+
+									</div> -->
+
+									<div class="mlist-header mlist-head-style">
+
+										BE THE FIRST TO KNOW WHEN RAVYN IS
+
+										<br class="desk">
+
+										TOURING NEAR YOU!
+
+									</div>
+
+									<div id="serverError" style="display: none">
+
+										Unable to process your request at this time. Please try again later.
+
+									</div>
+
+									<div id="errorMsg" style="display: none">
+
+										Please fill out the correct information.
+
+									</div>
+
+									<div class="mlist-field email-field">
+
+										<input id="email" name="email" type="email" class="m-required m-email" autocomplete="off" placeholder="Email Address" onfocus="this.placeholder = &#39;&#39;" onblur="this.placeholder = &#39;Email Address&#39;">
+
+									</div>
+
+									<div class="termsWrapper first mobile">
+
+										<div class="terms">
+
+											<a href="javascript:void(0)" class="terms"></a>
+
+										</div>
+
+										<div class="termsContent">
+
+											<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn&nbsp;Lenae</span> and her record label. -->
+
+											By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. I understand that I can opt-out at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+										</div>
+
+									</div>
+
+									<div class="mlist-submit">
+
+										<input class="submit" type="submit" value="Sign Up">
+
+									</div>
+
+									<div class="termsWrapper first desktop">
+
+										<div class="terms">
+
+											<a href="javascript:void(0)" class="terms"></a>
+
+										</div>
+
+										<div class="termsContent">
+
+											<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn&nbsp;Lenae</span> and her record label. -->
+											By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. I understand that I can opt-out at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+										</div>
+
+									</div>
+
+									<div class="primary-list-values">
+
+										<input id="autoreply" name="autoreply" type="hidden" value="yes">
+
+										<input id="signuptype" name="signuptype" type="hidden" value="any">
+
+										<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_NewsletterOptIn_MainSignUp_Website">
+
+										<input id="mainListId" name="newsletterId" type="hidden" value="14076641">
+
+																				<input type="hidden" name="ref_url" value="http://ravynlenae.com/">
+
+									</div>
+
+								</fieldset>
+
+							</form>
+
+							<div id="thankyouBlock" style="display: none">
+
+								<div class="thankyou-message embed" style="font-weight:bold;">
+
+									Thank you!
+
+								</div>
+
+								<div class="data-source-value">
+
+									<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_NewsletterOptIn_MainSignUp_Website">
+
+								</div>
+
+								<form id="secondForm" method="get" action="http://ravynlenae.com/" novalidate="novalidate">
+
+									<div id="thankyoublock-innerwrapper">
+
+										<div class="thankyou-message-user embed" style="font-weight:bold;">
+
+											Welcome <span class="emailAddress"></span> to
+
+											<br>
+
+											Ravyn&nbsp;Lenae's mailing list!
+
+										</div>
+
+										<div class="secondFormCloseWrap">
+
+											<a href="javascript:void(0)"><span></span> x</a>
+
+										</div>
+
+										<div class="thankswelcome-msg" style="text-align:left;font-size:15px;">
+
+											Customize your notifications for <b>tour dates</b> near your hometown, <b>birthday wishes</b>, or <b>special discounts</b> in our online store!
+
+										</div>
+
+										<div id="secondary-list-values" class="secondary-list-values">
+
+											<div id="errorLabelContainer2" style="display: none">
+
+												Please fill out the correct information.
+
+											</div>
+
+											<div class="mlist-field postalcode">
+
+												<label for="postalcode">Postal Code</label>
+
+												<input id="postalcode" name="postalcode" type="text" autofocus="" autocomplete="off">
+
+											</div>
+
+											<div class="mlist-field country">
+
+												<label for="country"> Country </label>
+
+												<select id="country" name="country" class="m-required">
+
+													<option value="">Select a country</option>
+
+													<option value="United States">United States</option>
+
+													<option value="Afghanistan">Afghanistan</option>
+
+													<option value="Albania">Albania</option>
+
+													<option value="Algeria">Algeria</option>
+
+													<option value="American Samoa">American Samoa</option>
+
+													<option value="Andorra">Andorra</option>
+
+													<option value="Angola">Angola</option>
+
+													<option value="Anguilla">Anguilla</option>
+
+													<option value="Antarctica">Antarctica</option>
+
+													<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+
+													<option value="Argentina">Argentina</option>
+
+													<option value="Armenia">Armenia</option>
+
+													<option value="Aruba">Aruba</option>
+
+													<option value="Australia">Australia</option>
+
+													<option value="Austria">Austria</option>
+
+													<option value="Azerbaijan">Azerbaijan</option>
+
+													<option value="Bahamas">Bahamas</option>
+
+													<option value="Bahrain">Bahrain</option>
+
+													<option value="Bangladesh">Bangladesh</option>
+
+													<option value="Barbados">Barbados</option>
+
+													<option value="Belarus">Belarus</option>
+
+													<option value="Belgium">Belgium</option>
+
+													<option value="Belize">Belize</option>
+
+													<option value="Benin">Benin</option>
+
+													<option value="Bermuda">Bermuda</option>
+
+													<option value="Bhutan">Bhutan</option>
+
+													<option value="Bolivia">Bolivia</option>
+
+													<option value="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</option>
+
+													<option value="Botswana">Botswana</option>
+
+													<option value="Bouvet Island">Bouvet Island</option>
+
+													<option value="Brazil">Brazil</option>
+
+													<option value="British Ind Ocean Ter ">British Ind Ocean Ter </option>
+
+													<option value="Brunei Darussalam">Brunei Darussalam</option>
+
+													<option value="Bulgaria">Bulgaria</option>
+
+													<option value="Burkina Faso">Burkina Faso</option>
+
+													<option value="Burundi">Burundi</option>
+
+													<option value="Cambodia">Cambodia</option>
+
+													<option value="Cameroon">Cameroon</option>
+
+													<option value="Canada">Canada</option>
+
+													<option value="Cape Verde">Cape Verde</option>
+
+													<option value="Cayman Islands">Cayman Islands</option>
+
+													<option value="Central African Rep">Central African Rep</option>
+
+													<option value="Chad">Chad</option>
+
+													<option value="Chile">Chile</option>
+
+													<option value="China">China</option>
+
+													<option value="Christmas Island">Christmas Island</option>
+
+													<option value="Cocos (Keeling Is)">Cocos (Keeling Is)</option>
+
+													<option value="Colombia">Colombia</option>
+
+													<option value="Comoros">Comoros</option>
+
+													<option value="Congo">Congo</option>
+
+													<option value="Cook Islands">Cook Islands</option>
+
+													<option value="Costa Rica">Costa Rica</option>
+
+													<option value="Cote D&#39;ivoire">Cote D'Ivoire </option>
+
+													<option value="Croatia (Hrvatska)">Croatia (Hrvatska)</option>
+
+													<option value="Cuba">Cuba</option>
+
+													<option value="Cyprus">Cyprus</option>
+
+													<option value="Czech Republic">Czech Republic</option>
+
+													<option value="Denmark">Denmark</option>
+
+													<option value="Djibouti">Djibouti</option>
+
+													<option value="Dominica">Dominica</option>
+
+													<option value="Dominican Republic">Dominican Republic</option>
+
+													<option value="East Timor">East Timor</option>
+
+													<option value="Ecuador">Ecuador</option>
+
+													<option value="Egypt">Egypt</option>
+
+													<option value="El Salvador">El Salvador</option>
+
+													<option value="Equatorial Guinea">Equatorial Guinea</option>
+
+													<option value="Eritrea">Eritrea</option>
+
+													<option value="Estonia">Estonia</option>
+
+													<option value="Ethiopia">Ethiopia</option>
+
+													<option value="Falkland Islands ">Falkland Islands </option>
+
+													<option value="Faroe Islands">Faroe Islands</option>
+
+													<option value="Fiji">Fiji</option>
+
+													<option value="Finland">Finland</option>
+
+													<option value="France">France</option><option value="France, Metro">France, Metro</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Ter">French Southern Ter</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Georgia and S. Sand Is">Georgia and S. Sand Is</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard &amp; McDonald Is">Heard &amp; McDonald Is</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea (North) ">Korea (North) </option><option value="Korea (South)">Korea (South)</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan ">Kyrgyzstan </option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macau">Macau</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia">Micronesia</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="Neutral Zone Saudi/Iraq">Neutral Zone Saudi/Iraq</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Is">Northern Mariana Is</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="St. Vincent/Grenadines ">St. Vincent/Grenadines </option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia (Slovak Rep)">Slovakia (Slovak Rep)</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="Soviet Union (former)">Soviet Union (former)</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St. Helena">St. Helena</option><option value="St. Pierre and Miquelo ">St. Pierre and Miquelo </option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard &amp; Jan Mayen">Svalbard &amp; Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Is">Turks and Caicos Is</option><option value="Tuvalu">Tuvalu</option><option value="US Minor Outlying Is">US Minor Outlying Is</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom </option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City State ">Vatican City State </option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands (Brit)">Virgin Islands (Brit)</option><option value="Virgin Islands (US)">Virgin Islands (US)</option><option value="Wallis and Futuna Is">Wallis and Futuna Is</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia">Yugoslavia</option><option value="Zaire">Zaire</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option>
+
+												</select>
+
+											</div>
+
+											<div class="mlist-field mlist-field1">
+
+												<label for="firstname">First name</label>
+
+												<input id="firstname" name="firstname" type="text" autocomplete="off">
+
+											</div>
+
+											<div class="mlist-field">
+
+												<label for="birthday">Birth Date</label>
+
+												<select name="dobMonth" id="dobMonth">
+
+													<option value="">Month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option>
+
+												</select>
+
+												<select name="dobDay" id="dobDay">
+
+													<option value="">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+												</select>
+
+												<!--<select name="dobYear" id="dobYear" class="m-required">
+
+												<option value="">Year</option>undefined<option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option>
+
+												</select>-->
+
+											</div>
+
+											<!--input type="hidden" value="no" name="autoreply" id="labelListAutoReply"-->
+
+											<!--<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_MoonShoesEP_SplashPage_Website">-->
+
+											<input id="mainListId" name="newsletterId" type="hidden" value="14075551">
+
+																						<input type="hidden" name="ref_url" value="http://ravynlenae.com/">
+
+											<div class="mlist-checks">
+
+												<input type="checkbox" class="global-list-checkbox" name="newsletterId" value="50">
+
+												<label class="global-list" for="global-list">Sign me up to discover more artists like Ravyn&nbsp;Lenae and other offers.</label>
+
+											</div>
+
+										</div>
+
+										<div class="mlist-submit-new">
+
+											<input class="submit" type="submit" value="Submit">
+
+										</div>
+
+										<div class="termsWrapper second">
+
+											<div class="terms">
+
+												<a href="javascript:void(0)" class="terms"></a>
+
+											</div>
+
+											<div class="termsContent">
+
+												<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn&nbsp;Lenae</span> and her record label. -->
+
+												By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. In addition, if I have checked the box above, I agree to receive such updates and messages about similar artists, products and offers. I understand that I can opt-out from messages at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+											</div>
+
+										</div>
+
+									</div>
+
+								</form>
+
+							</div><!-- //Thank you block -->
+
+							<!--terms -->
+
+						</div>
+
+					</div>
+
+					<div class="tourWrapper-Mobile">
+
+						<!-- <div id="ss-bit-narrow"></div> -->
+
+						<div id="wsk-widget">
+
+							<script src="./Ravyn Lenae - Official Website_files/widget_min.js" type="text/javascript"></script>
+
+							<div class="songkick-container songkick-artist-8668669 songkick-page-undefined" id="songkick-widget-661"><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">02</div><div class="dtm_date" style="display: none;">02 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text">St Jerome's Laneway Festival 2019</div><div class="venue plain_text"> Brisbane Showgrounds </div><div class="location plain_text">Fortitude Valley, QLD, Australia</div></div><div class="featuring-artists plain_text">with A Boogie Wit da Hoodie,  and moreCourtney Barnett,  and moreRex Orange County,  and moreWhat So Not and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/brisbane-st-jeromes-laneway-festival/106752">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">03</div><div class="dtm_date" style="display: none;">03 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text">St Jerome's Laneway Festival 2019</div><div class="venue plain_text"> Sydney College of the Arts </div><div class="location plain_text">Rozelle, NSW, Australia</div></div><div class="featuring-artists plain_text">with A Boogie Wit da Hoodie,  and moreCourtney Barnett,  and moreRex Orange County,  and moreWhat So Not and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/sydney-st-jeromes-laneway-festival/106751">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">05</div><div class="dtm_date" style="display: none;">05 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text"></div><div class="venue plain_text"> Oxford Art Factory </div><div class="location plain_text">Darlinghurst, NSW, Australia</div></div><div class="featuring-artists plain_text"></div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/ravyn-lenae-with-special-guests/108003">Tickets</a><a class="additional_link link_text link_background" target="_blank" data-track="songkick-vip" href="http://www.meetravyn.com/">VIP</a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">06</div><div class="dtm_date" style="display: none;">06 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text"></div><div class="venue plain_text"> Howler </div><div class="location plain_text">Brunswick, VIC, Australia</div></div><div class="featuring-artists plain_text"></div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/ravyn-lenae-with-special-guests/107848">Tickets</a><a class="additional_link link_text link_background" target="_blank" data-track="songkick-vip" href="http://www.meetravyn.com/">VIP</a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">08</div><div class="dtm_date" style="display: none;">08 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text">St Jerome's Laneway Festival 2019</div><div class="venue plain_text"> Hart's Mill </div><div class="location plain_text">Port Adelaide, SA, Australia</div></div><div class="featuring-artists plain_text">with A Boogie Wit da Hoodie,  and moreCourtney Barnett,  and moreRex Orange County,  and moreWhat So Not and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/adelaide-st-jeromes-laneway-festival/106749">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">09</div><div class="dtm_date" style="display: none;">09 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text">St Jerome's Laneway Festival 2019</div><div class="venue plain_text"> Footscray Park </div><div class="location plain_text">Footscray, VIC, Australia</div></div><div class="featuring-artists plain_text">with A Boogie Wit da Hoodie,  and moreCourtney Barnett,  and moreRex Orange County,  and moreWhat So Not and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/melbourne-st-jeromes-laneway-festival/106750">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">Feb</div><div class="date plain_text" style="display: inline;">10</div><div class="dtm_date" style="display: none;">10 Feb 2019</div></div><div class="event_location"><div class="special-event plain_text">St Jerome's Laneway Festival 2019</div><div class="venue plain_text"> Esplanade Reserve &amp; West End </div><div class="location plain_text">Fremantle, WA, Australia</div></div><div class="featuring-artists plain_text">with A Boogie Wit da Hoodie,  and moreCourtney Barnett,  and moreRex Orange County,  and moreWhat So Not and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="https://www.moshtix.com.au/v2/event/fremantle-st-jeromes-laneway-festival/106753">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">May</div><div class="date plain_text" style="display: inline;">24</div><span>-&nbsp;</span><div class="month plain_text" style="display: inline;">May</div><div class="date plain_text" style="display: inline;">26</div><div class="dtm_date" style="display: none;">24 May 2019-26 May 2019</div></div><div class="event_location"><div class="special-event plain_text">Boston Calling 2019</div><div class="venue plain_text"> Harvard Athletic Complex </div><div class="location plain_text">Allston, MA, US</div></div><div class="featuring-artists plain_text">with Twenty One Pilots,  and moreHozier,  and moreTravis Scott,  and moreTame Impala and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="http://www.songkick.com/festivals/647469-boston-calling/id/36585399-boston-calling-2019?utm_source=46422&amp;utm_medium=partner">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div><div class="widget_row"><div class="event_date"><div class="month plain_text" style="display: inline;">May</div><div class="date plain_text" style="display: inline;">31</div><span>-&nbsp;</span><div class="month plain_text" style="display: inline;">Jun</div><div class="date plain_text" style="display: inline;">02</div><div class="dtm_date" style="display: none;">31 May 2019-02 Jun 2019</div></div><div class="event_location"><div class="special-event plain_text">The Governors Ball Music Festival 2019</div><div class="venue plain_text"> Randall's Island Park </div><div class="location plain_text">New York, NY, US</div></div><div class="featuring-artists plain_text">with Lil Wayne,  and moreMajor Lazer,  and moreThe Strokes,  and moreTy Dolla $ign and more</div><div class="event_links"><a class="ticket_link link_text link_background" target="_blank" data-track="songkick-tickets" href="http://www.songkick.com/festivals/181131-governors-ball-music/id/36791804-the-governors-ball-music-festival-2019?utm_source=46422&amp;utm_medium=partner">Tickets</a><a class="additional_link link_text link_background no-link" target="_blank"></a></div></div></div><style type="text/css">.widget_row {border-bottom: 2px solid #ccc;overflow:hidden;display:flex;font-size: 13px;font-family: 'helvetica', 'arial', sans-serif;padding: 10px 0px;} .event_date div{margin-right:5px;}.widget_row > div {flex-direction: row-reverse;float: left; width: 30%; padding-left: 3%; min-height: 2px;}.widget_row div.event_date{width:15%;display:inline-block;padding-left:0%;}.widget_row div.event_date span{display:inline-block;}.event_links a.additional_link {	margin-top:10px;}.event_links a.additional_link.no-link{display:none;margin-top:0px;}.event_links a{ display: block; width: 100%;    padding: 8px 0px;text-transform: uppercase;text-align: center; background: #ed3d3d;color: #fff;margin: 0px auto;text-decoration: none;}.event_links a.cancelled{cursor: text;opacity: 0.5;}a.view_more{width: 100px;margin: 20px auto;display: block;text-transform: uppercase;font-size: 13px;font-family: 'helvetica', 'arial', sans-serif;text-align: center;background: #ed3d3d;color: #fff;text-decoration:none;padding: 8px 50px;}.widget_row .event_links{width: 16%;}@media screen and (max-width: 1024px) { .event_links a{	width: 100%;  padding: 8px 0px;}  }@media screen and (max-width: 480px) { .widget_row{	  position:relative;  display:block;	      padding: 10px 0px;  }  .widget_row > div{display:block;	  clear: both;	  float:none;	  width:60%; padding-left:0px; }  .widget_row .event_links{float: right;    position: absolute;   top: 50%;    right: 0px;    width: 25%;    transform: translateY(-50%);  }}#songkick-widget-661 .plain_text { color:#fff}#songkick-widget-661 .link_text { color:#fff}#songkick-widget-661 .link_background { background-color:#ed3d3d}#songkick-widget-661 .widget_row { background-color:#FFFFFF}</style>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="mlist-outer-wrapper embedded-inline-list country-detect" id="mlistsection">
+
+				<div class="mlist-wrapper">
+
+					<!-- Ajax Loader Icon -->
+
+					<div id="ajaxLoader" style="display: none">
+
+					</div><!-- //ajaxLoader-->
+
+					<form class="join-button-form" id="signupForm3" method="get" action="http://ravynlenae.com/" novalidate="novalidate" autocomplete="off">
+
+						<fieldset>
+
+							<div class="mlist-subscribe">
+
+								<h2>SUBSCRIBE</h2>
+
+							</div>
+
+							<div class="mlist-header mlist-head-style">
+
+								KEEP UP WITH ALL THINGS RAVYN
+
+							</div>
+
+							<div id="serverError" style="display: none">
+
+								Unable to process your request at this time. Please try again later.
+
+							</div>
+
+							<div id="errorMsg" style="display: none">
+
+								Please fill out the correct information.
+
+							</div>
+
+							<div class="mlist-field email-field">
+
+								<input id="email" name="email" type="email" class="m-required m-email" autocomplete="off" placeholder="Email Address" onfocus="this.placeholder = &#39;&#39;" onblur="this.placeholder = &#39;Email Address&#39;">
+
+							</div>
+
+							<div class="termsWrapper first mobile">
+
+								<div class="terms">
+
+									<a href="javascript:void(0)" class="terms"></a>
+
+								</div>
+
+								<div class="termsContent">
+
+									<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn&nbsp;Lenae</span> and her record label. -->
+
+									By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. I understand that I can opt-out at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+								</div>
+
+							</div>
+
+							<div class="mlist-submit">
+
+								<input class="submit" type="submit" value="Sign Up">
+
+							</div>
+
+							<div class="termsWrapper first desktop">
+
+								<div class="terms">
+
+									<a href="javascript:void(0)" class="terms"></a>
+
+								</div>
+
+								<div class="termsContent">
+
+									<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn&nbsp;Lenae</span> and her record label. -->
+									By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. I understand that I can opt-out at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+								</div>
+
+							</div>
+
+							<div class="primary-list-values">
+
+								<input id="autoreply" name="autoreply" type="hidden" value="yes">
+
+								<input id="signuptype" name="signuptype" type="hidden" value="any">
+
+								<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_NewsletterOptIn_MainSignUp_Website">
+
+								<input id="mainListId" name="newsletterId" type="hidden" value="14076641">
+
+																<input type="hidden" name="ref_url" value="http://ravynlenae.com/">
+
+							</div>
+
+						</fieldset>
+
+					</form>
+
+					<div id="thankyouBlock" style="display: none">
+
+						<div class="thankyou-message embed" style="font-weight:bold;">
+
+							Thank you!
+
+						</div>
+
+						<div class="data-source-value">
+
+							<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_NewsletterOptIn_MainSignUp_Website">
+
+						</div>
+
+						<form id="secondForm" method="get" action="http://ravynlenae.com/" novalidate="novalidate">
+
+							<div id="thankyoublock-innerwrapper">
+
+								<div class="thankyou-message-user embed" style="font-weight:bold;">
+
+									Welcome <span class="emailAddress"></span> to
+
+									<br>
+
+									Ravyn&nbsp;Lenae's mailing list!
+
+								</div>
+
+								<div class="secondFormCloseWrap">
+
+									<a href="javascript:void(0)"><span></span> x</a>
+
+								</div>
+
+								<div class="thankswelcome-msg" style="text-align:left;font-size:15px;">
+
+									Customize your notifications for <b>tour dates</b> near your hometown, <b>birthday wishes</b>, or <b>special discounts</b> in our online store!
+
+								</div>
+
+								<div id="secondary-list-values" class="secondary-list-values">
+
+									<div id="errorLabelContainer2" style="display: none">
+
+										Please fill out the correct information.
+
+									</div>
+
+									<div class="mlist-field postalcode">
+
+										<label for="postalcode">Postal Code</label>
+
+										<input id="postalcode" name="postalcode" type="text" autofocus="" autocomplete="off">
+
+									</div>
+
+									<div class="mlist-field country">
+
+										<label for="country"> Country </label>
+
+										<select id="country" name="country" class="m-required">
+
+											<option value="">Select a country</option>
+
+											<option value="United States">United States</option>
+
+											<option value="Afghanistan">Afghanistan</option>
+
+											<option value="Albania">Albania</option>
+
+											<option value="Algeria">Algeria</option>
+
+											<option value="American Samoa">American Samoa</option>
+
+											<option value="Andorra">Andorra</option>
+
+											<option value="Angola">Angola</option>
+
+											<option value="Anguilla">Anguilla</option>
+
+											<option value="Antarctica">Antarctica</option>
+
+											<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+
+											<option value="Argentina">Argentina</option>
+
+											<option value="Armenia">Armenia</option>
+
+											<option value="Aruba">Aruba</option>
+
+											<option value="Australia">Australia</option>
+
+											<option value="Austria">Austria</option>
+
+											<option value="Azerbaijan">Azerbaijan</option>
+
+											<option value="Bahamas">Bahamas</option>
+
+											<option value="Bahrain">Bahrain</option>
+
+											<option value="Bangladesh">Bangladesh</option>
+
+											<option value="Barbados">Barbados</option>
+
+											<option value="Belarus">Belarus</option>
+
+											<option value="Belgium">Belgium</option>
+
+											<option value="Belize">Belize</option>
+
+											<option value="Benin">Benin</option>
+
+											<option value="Bermuda">Bermuda</option>
+
+											<option value="Bhutan">Bhutan</option>
+
+											<option value="Bolivia">Bolivia</option>
+
+											<option value="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</option>
+
+											<option value="Botswana">Botswana</option>
+
+											<option value="Bouvet Island">Bouvet Island</option>
+
+											<option value="Brazil">Brazil</option>
+
+											<option value="British Ind Ocean Ter ">British Ind Ocean Ter </option>
+
+											<option value="Brunei Darussalam">Brunei Darussalam</option>
+
+											<option value="Bulgaria">Bulgaria</option>
+
+											<option value="Burkina Faso">Burkina Faso</option>
+
+											<option value="Burundi">Burundi</option>
+
+											<option value="Cambodia">Cambodia</option>
+
+											<option value="Cameroon">Cameroon</option>
+
+											<option value="Canada">Canada</option>
+
+											<option value="Cape Verde">Cape Verde</option>
+
+											<option value="Cayman Islands">Cayman Islands</option>
+
+											<option value="Central African Rep">Central African Rep</option>
+
+											<option value="Chad">Chad</option>
+
+											<option value="Chile">Chile</option>
+
+											<option value="China">China</option>
+
+											<option value="Christmas Island">Christmas Island</option>
+
+											<option value="Cocos (Keeling Is)">Cocos (Keeling Is)</option>
+
+											<option value="Colombia">Colombia</option>
+
+											<option value="Comoros">Comoros</option>
+
+											<option value="Congo">Congo</option>
+
+											<option value="Cook Islands">Cook Islands</option>
+
+											<option value="Costa Rica">Costa Rica</option>
+
+											<option value="Cote D&#39;ivoire">Cote D'Ivoire </option>
+
+											<option value="Croatia (Hrvatska)">Croatia (Hrvatska)</option>
+
+											<option value="Cuba">Cuba</option>
+
+											<option value="Cyprus">Cyprus</option>
+
+											<option value="Czech Republic">Czech Republic</option>
+
+											<option value="Denmark">Denmark</option>
+
+											<option value="Djibouti">Djibouti</option>
+
+											<option value="Dominica">Dominica</option>
+
+											<option value="Dominican Republic">Dominican Republic</option>
+
+											<option value="East Timor">East Timor</option>
+
+											<option value="Ecuador">Ecuador</option>
+
+											<option value="Egypt">Egypt</option>
+
+											<option value="El Salvador">El Salvador</option>
+
+											<option value="Equatorial Guinea">Equatorial Guinea</option>
+
+											<option value="Eritrea">Eritrea</option>
+
+											<option value="Estonia">Estonia</option>
+
+											<option value="Ethiopia">Ethiopia</option>
+
+											<option value="Falkland Islands ">Falkland Islands </option>
+
+											<option value="Faroe Islands">Faroe Islands</option>
+
+											<option value="Fiji">Fiji</option>
+
+											<option value="Finland">Finland</option>
+
+											<option value="France">France</option><option value="France, Metro">France, Metro</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Ter">French Southern Ter</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Georgia and S. Sand Is">Georgia and S. Sand Is</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard &amp; McDonald Is">Heard &amp; McDonald Is</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea (North) ">Korea (North) </option><option value="Korea (South)">Korea (South)</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan ">Kyrgyzstan </option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macau">Macau</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia">Micronesia</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="Neutral Zone Saudi/Iraq">Neutral Zone Saudi/Iraq</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Is">Northern Mariana Is</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="St. Vincent/Grenadines ">St. Vincent/Grenadines </option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia (Slovak Rep)">Slovakia (Slovak Rep)</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="Soviet Union (former)">Soviet Union (former)</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St. Helena">St. Helena</option><option value="St. Pierre and Miquelo ">St. Pierre and Miquelo </option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard &amp; Jan Mayen">Svalbard &amp; Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Is">Turks and Caicos Is</option><option value="Tuvalu">Tuvalu</option><option value="US Minor Outlying Is">US Minor Outlying Is</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom </option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City State ">Vatican City State </option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands (Brit)">Virgin Islands (Brit)</option><option value="Virgin Islands (US)">Virgin Islands (US)</option><option value="Wallis and Futuna Is">Wallis and Futuna Is</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia">Yugoslavia</option><option value="Zaire">Zaire</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option>
+
+										</select>
+
+									</div>
+
+									<div class="mlist-field mlist-field1">
+
+										<label for="firstname">First name</label>
+
+										<input id="firstname" name="firstname" type="text" autocomplete="off">
+
+									</div>
+
+									<div class="mlist-field">
+
+										<label for="birthday">Birth Date</label>
+
+										<select name="dobMonth" id="dobMonth">
+
+											<option value="">Month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option>
+
+										</select>
+
+										<select name="dobDay" id="dobDay">
+
+											<option value="">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+
+										</select>
+
+										<!--<select name="dobYear" id="dobYear" class="m-required">
+
+										<option value="">Year</option>undefined<option value="2014">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option>
+
+										</select>-->
+
+									</div>
+
+									<!--input type="hidden" value="no" name="autoreply" id="labelListAutoReply"-->
+
+									<!--<input id="Datasource" name="Datasource" type="hidden" value="RavynLenae_MoonShoesEP_SplashPage_Website">-->
+
+									<input id="mainListId" name="newsletterId" type="hidden" value="14075551">
+
+																		<input type="hidden" name="ref_url" value="http://ravynlenae.com/">
+
+									<div class="mlist-checks">
+
+										<input type="checkbox" class="global-list-checkbox" name="newsletterId" value="50">
+
+										<label class="global-list" for="global-list">Sign me up to discover more artists like Ravyn&nbsp;Lenae and other offers.</label>
+
+									</div>
+
+								</div>
+
+								<div class="mlist-submit-new">
+
+									<input class="submit" type="submit" value="Submit">
+
+								</div>
+
+								<div class="termsWrapper second">
+
+									<div class="terms">
+
+										<a href="javascript:void(0)" class="terms"></a>
+
+									</div>
+
+									<div class="termsContent">
+
+										<!-- By submitting my information above, I acknowledge that I have reviewed and agreed to the <a target="_blank" href="http://www.atlanticrecords.com/privacy-policy/">Privacy Policy</a> and <a target="_blank" href="http://www.atlanticrecords.com/terms-of-use/">Terms of Use</a>, and I agree to receive updates and marketing messages from time to time from <span>Ravyn Lenae</span> and her record label. -->
+
+										By submitting my information, I agree to receive personalized updates and marketing messages about <span>Ravyn&nbsp;Lenae</span> based on my information, interests, activities, website visits and device data and in accordance with the <a href="http://atlanticrecords.com/privacy-policy/" target="_blank">Privacy&nbsp;Policy</a>. In addition, if I have checked the box above, I agree to receive such updates and messages about similar artists, products and offers. I understand that I can opt-out from messages at any time by emailing <a href="mailto:privacypolicy@wmg.com">privacypolicy@wmg.com</a>.
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</form>
+
+					</div><!-- //Thank you block -->
+
+					<!--terms -->
+
+				</div>
+
+			</div>
+
+			<div class="footer-outer-wrapper">
+
+				<div class="footer-wrapper">
+
+					<div class="socialOuterWrappper">
+
+						<a data-track="facebook-ftr" class="splash-facebook facebook" target="_blank" href="https://facebook.com/ravynlenae"></a>
+
+						<a data-track="twitter-ftr" class="splash-twitter twitter" target="_blank" href="https://twitter.com/ravynlenae"></a>
+
+						<a data-track="instagram-ftr" class="splash-instagram instagram" target="_blank" href="https://instagram.com/ravynlenae"></a>
+
+						<a data-track="youtube-ftr" class="youtube splash-youtube" target="_blank" href="https://youtube.com/ravynlenae"></a>
+
+						<a data-track="spotify-ftr" class="splash-spotify spotifyfooter" target="_blank" href="https://play.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"></a>
+
+					</div>
+
+					<div class="img-footer">
+
+						<img src="./Ravyn Lenae - Official Website_files/footer-logo.png">
+
+					</div>
+
+					<div class="footer-wood">
+
+						<div class="copyRight ">
+
+							© Copyright 2019 Ravyn Lenae <span> | </span><a href="http://atlanticrecords.com/terms-of-use/" title="" target="_blank">Terms of Use</a><span> | </span><a href="http://atlanticrecords.com/privacy-policy/" title="" target="_blank">Privacy Policy</a><span> | </span><a href="http://www.atlanticrecords.com/privacy-policy#adchoices" class="adchoices" target="_blank">Ad Choices</a> | <a target="_blank" href="https://wminewmedia.com/cookies">Cookie&nbsp;Policy</a>
+						</div>
+						<div class="copyRight mob">
+
+							© Copyright 2019 Ravyn Lenae <br> <a href="http://atlanticrecords.com/terms-of-use/" title="" target="_blank">Terms of Use</a><span> | </span><a href="http://atlanticrecords.com/privacy-policy/" title="" target="_blank">Privacy Policy</a><span> | </span><a href="http://www.atlanticrecords.com/privacy-policy#adchoices" class="adchoices" target="_blank">Ad Choices</a> <br> <a target="_blank" href="https://wminewmedia.com/cookies">Cookie&nbsp;Policy</a>
+						</div>
+
+					</div>
+
+					<!-- <div class="enter_site">
+
+					<a href="http://www.ravynlenae.com/?frontpage=true">ENTER SITE</a>
+
+					</div> -->
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<script type="text/javascript">
+			//DTM Footer Code
+		
+			
+			_satellite.pageBottom();
+
+		</script>
+
+	
+
+<div id="pp-footer" class="pp-footer" style="display:none"><div id="footer-inner"><span id="cookiesclose" class="close"></span>This site uses cookies.  By continuing to browse the site, you are agreeing to our use of cookies. We and our partners operate globally and use cookies for purposes such as analytics, personalization, site functionality and serving ads. To learn more, including how to manage cookies <a href="https://www.wminewmedia.com/cookies/#refuseCookie" target="_blank">click&nbsp;here</a>.</div></div></body></html>
